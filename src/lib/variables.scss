@@ -1,0 +1,15 @@
+$text: #04240c;
+$background: #f2fef6;
+$primary: #2fe766;
+$secondary: #7bb8f0;
+$accent: #4d62ea;
+
+$sub-padding: 2rem;
+$sub-radius: 1rem;
+$sub-header-height: 1rem;
+$sub-aside-width: 22rem;
+$sub-aside-padding: $sub-header-height;
+
+$article-radius: $sub-radius;
+$article-padding: 0.2rem;
+$article-inner-radius: $article-radius - $article-padding;
